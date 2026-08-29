@@ -1,0 +1,4 @@
+A code wiki for this local repository. Prioritize a concise quickstart, architecture overview, source map, key workflows, domain concepts, operations/runbook notes, testing guidance, and integration points. Inspect git history to understand reasoning behind code changes and the progression of the repository. Keep pages grounded in the repository structure and recent code changes. Prefer practical navigation for engineers over generic summaries.
+add mermaid diagram for main flows, module, modules connection/protocols.
+When using Mermaid diagrams, ensure that any special characters (like parentheses) within node labels are properly quoted (e.g., `"Text with (special) characters"`) to avoid parsing errors, especially within shapes that use curly braces `{}` or other delimiters.
+read mermaid_best_practices.md on how to avoid mermaid errors 
